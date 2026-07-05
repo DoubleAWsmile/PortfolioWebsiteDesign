@@ -210,14 +210,14 @@ export default function App() {
                 fontWeight: 400,
               }}
             >
-              Building systems
-              <br />
-              that <em>learn,</em> scale,
-              <br />
-              and ship.
+            Building software
+            <br />
+            across machine learning,
+            <br />
+            systems, and research.
             </h1>
             <p className="text-muted-foreground text-lg max-w-lg leading-relaxed">
-              I&apos;m a graduate student in Computer Science with a focus on machine learning. I love turning research ideas into working systems — and I&apos;m actively seeking summer 2025 internships in SWE and ML engineering.
+              I&apos;m currently a graduate student in Computer Science at the Georgia Institute of Technology with a focus on machine learning. I love turning research ideas into working systems and I&apos;m actively seeking summer 2026 internships in SWE and ML engineering.
             </p>
           </div>
           <div className="flex md:flex-col gap-4 items-start md:items-end pb-1">
@@ -283,7 +283,7 @@ export default function App() {
             className="text-muted-foreground text-xs tracking-widest uppercase hidden md:block"
             style={{ fontFamily: "'DM Mono', monospace" }}
           >
-            2023–2024
+            2024-2026
           </p>
         </div>
 
